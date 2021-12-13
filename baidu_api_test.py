@@ -22,5 +22,4 @@ import pdfplumber
 import re
 import pytesseract
 import PIL
-
-import beautifulsoup4	#bs4，导入命令可能有误
+import beautifulsoup4	#bs4，导入命令可能有误；2021.12.13测试
