@@ -23,3 +23,5 @@ import re
 import pytesseract
 import PIL
 import beautifulsoup4	#bs4，导入命令可能有误；2021.12.13测试
+
+#修改，看是否能出现暂存区 2021.12.17 测试
